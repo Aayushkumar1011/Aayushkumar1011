@@ -39,11 +39,11 @@ LEETCODE: https://leetcode.com/aayush_007_code/
 
 <p align="center">
    <a>
-<!--    <img height="150" width="150" src="https://github.com/Aayushkumar1011/Aayushkumar1011/blob/main/images/left.png"> -->
-     <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <img height="150" width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-f9GRXgXo7orL3l5UAN6OSSnADOZ9DNyHnDQWzeOemB1BCPWmpzcnOr8HxYrs92PGhw&usqp=CAU">
+<!--      <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png"> -->
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushkumar1011&theme=dark&hide_border=true"/>
-     <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
-<!--    <img height="150" width="150" src="https://github.com/Aayushkumar1011/Aayushkumar1011/blob/main/images/right.png"> -->
+<!--      <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png"> -->
+   <img height="150" width="150" src="https://media-exp2.licdn.com/dms/image/C5603AQGyYm7DWC6E_g/profile-displayphoto-shrink_400_400/0/1614270253276?e=1663200000&v=beta&t=YoY-L3Goaf-Z39SB45ljQvFFySvK3cOTNKKBpKNoIPM">
    </a>
 </p>
 
