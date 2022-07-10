@@ -39,9 +39,9 @@ LEETCODE: https://leetcode.com/aayush_007_code/
 
 <p align="center">
    <a>
-   <img height="120" width="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-f9GRXgXo7orL3l5UAN6OSSnADOZ9DNyHnDQWzeOemB1BCPWmpzcnOr8HxYrs92PGhw&usqp=CAU">
+   <img height="120" width="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-f9GRXgXo7orL3l5UAN6OSSnADOZ9DNyHnDQWzeOemB1BCPWmpzcnOr8HxYrs92PGhw&usqp=CAU">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushkumar1011&theme=dark&hide_border=true"/>
-   <img height="120" width="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-f9GRXgXo7orL3l5UAN6OSSnADOZ9DNyHnDQWzeOemB1BCPWmpzcnOr8HxYrs92PGhw&usqp=CAU">
+   <img height="120" width="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-f9GRXgXo7orL3l5UAN6OSSnADOZ9DNyHnDQWzeOemB1BCPWmpzcnOr8HxYrs92PGhw&usqp=CAU">
    </a>
 </p>
 
