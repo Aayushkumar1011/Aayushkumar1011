@@ -17,7 +17,7 @@
 
 **Coding Profiles--** 
 
-LEETCODE: https://leetcode.com/aayush_007_code/
+LEETCODE: https://leetcode.com/ayush001__/
 
 
 <br/>
